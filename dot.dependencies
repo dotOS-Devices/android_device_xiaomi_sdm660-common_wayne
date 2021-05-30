@@ -8,19 +8,19 @@
   {
     "remote"      : "github",
     "repository"  : "AOSP-11/hardware_qcom-caf_audio_msm8998",
-    "target_path" : "hardware/qcom-caf/sdm660/audio",
+    "target_path" : "hardware/qcom-caf/msm8998-wayne/audio",
     "branch"      : "11"
   },
   {
     "remote"      : "github",
     "repository"  : "AOSP-11/hardware_qcom-caf_display_msm8998",
-    "target_path" : "hardware/qcom-caf/sdm660/display",
+    "target_path" : "hardware/qcom-caf/msm8998-wayne/display",
     "branch"      : "11"
   },
   {
     "remote"      : "github",
     "repository"  : "AOSP-11/hardware_qcom-caf_media_msm8998",
-    "target_path" : "hardware/qcom-caf/sdm660/media",
+    "target_path" : "hardware/qcom-caf/msm8998-wayne/media",
     "branch"      : "11"
   }
 ]
